@@ -1,1 +1,2 @@
-print('bhagi')
+list[print('bhagi')]
+
